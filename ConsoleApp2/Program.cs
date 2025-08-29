@@ -12,6 +12,7 @@ namespace ConsoleApp2
         {
             Console.WriteLine("Hola MUNDO");
             Console.WriteLine("Soy ALUMNO");
+            Console.WriteLine("Bienvenidos al curso de fundamentos de algoritmos");
         }
     }
 }
