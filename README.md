@@ -12,7 +12,7 @@ Un portafolio web personal creado durante mi aprendizaje de control de versiones
 CSS
 
 ## Autor
-[Estudiantes] - Estudiantes de la carrera de [ingenerìadeistemas]
+[Estudiantes] - Estudiantes de la carrera de [ingenerìadesistemas]
 
 ## Fecha
 [03/09/2025]
